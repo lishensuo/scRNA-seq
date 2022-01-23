@@ -1,0 +1,5 @@
+"0",""
+"0","#Meyloid cell: 1"
+"0","cg=c(""CD68"",""LYZ"",""MARCO"",""AIF1"",""TYROBR"",""MS4A6A"",""CD1E"",""IL3RA"",""LAMP3"")"
+"0","DotPlot(scRNA, assay = ""RNA"","
+"0","        features = cg) + coord_flip()  + p_umap"

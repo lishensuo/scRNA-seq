@@ -1,0 +1,12 @@
+"0",""
+"0","scRNA <- FindNeighbors(scRNA, dims = pc.num) "
+"2","Computing nearest neighbor graph
+"
+"1",""
+"2","Computing SNN
+"
+"0","scRNA <- FindClusters(scRNA, resolution = c(0.01,0.05,0.1,0.2,0.5,0.7,0.9),"
+"0","                      verbose = F)"
+"0","library(clustree)"
+"0","library(patchwork)"
+"0","clustree(scRNA@meta.data, prefix = ""RNA_snn_res."")"

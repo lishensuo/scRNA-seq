@@ -1,0 +1,4 @@
+"0","#T cell : 6"
+"0","cg=c(""CD3D"",'CD3E','TRAG','CD3G','CD2')"
+"0","DotPlot(scRNA, assay = ""RNA"","
+"0","        features = cg) + coord_flip()  + p_umap"

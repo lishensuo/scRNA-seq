@@ -1,0 +1,5 @@
+"0",""
+"0","#Cancer cell / Epithelial : 0,3,4,5,10"
+"0","cg=c(""EPCAM"",""PAX8"",""KRT18"",""CD24"",""KRT19"",""SCGB2A2"",""KRT5"",""KRT15"" )"
+"0","DotPlot(scRNA, assay = ""RNA"","
+"0","        features = cg) + coord_flip()  + p_umap"

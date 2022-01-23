@@ -1,0 +1,5 @@
+"0",""
+"0","#Fibroblasts(CAF): 7"
+"0","cg=c(""COL1A1"",""COL1A2"",""COL3A1"",""BGN"",""DCN"",""POSTN"",""C1R"")"
+"0","DotPlot(scRNA, assay = ""RNA"","
+"0","        features = cg) + coord_flip()  + p_umap"

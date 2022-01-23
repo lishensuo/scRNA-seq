@@ -1,0 +1,4 @@
+"0","#B cell : 9"
+"0","cg=c(""CD79A"",""CD79B"",""IGKC"",""CD19"",""MZB1"",""MS4A1"")"
+"0","DotPlot(scRNA, assay = ""RNA"","
+"0","        features = cg) + coord_flip() + p_umap"
